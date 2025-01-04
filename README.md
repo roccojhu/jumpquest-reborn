@@ -2,7 +2,7 @@ Jump Quest Reborn is a first attempt at a pure python implementation of a 2D sid
 
 In a jump quest, the goal is to navigate a 2D character to the top of the map, where a finishing line awaits. Besides trying to solve for a viable path upwards, the player also needs to navigate dangerous traps. 
 
-[Screenshot of Game](jq_reborn.png)
+[Screenshot of Game](media/jq_reborn.png)
 
 The starter code and game assets for this game are based on the 2D platformer tutorial created by [@TechwithTim](https://www.youtube.com/@TechWithTim), and can be found at the following [GitHub repository](https://www.youtube.com/watch?v=B6DrRN5z_uU).
 
