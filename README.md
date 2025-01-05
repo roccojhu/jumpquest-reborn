@@ -5,5 +5,5 @@
 ![Screenshot of Game](media/jq_reborn.png)
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The starter code and game assets for this game are based on the 2D platformer tutorial created by [@TechwithTim](https://www.youtube.com/@TechWithTim), and the starter code can be found at the following [GitHub repository](https://www.youtube.com/watch?v=B6DrRN5z_uU).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This game is based on the 2D platformer tutorial created by [@TechwithTim](https://www.youtube.com/@TechWithTim), and the starter code can be found at the following [GitHub repository](https://www.youtube.com/watch?v=B6DrRN5z_uU).
 
