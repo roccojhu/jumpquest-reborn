@@ -1,4 +1,4 @@
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jump Quest Reborn is a first attempt at a pure python implementation of a 2D side-scroller Jump Quest – a popular subgame found in many classic side-scroller 2D MMORPGs such as MapleStory. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jump Quest Reborn is a first attempt at a pure python implementation of a Jump Quest – a popular subgame found in many classic side-scroller 2D MMORPGs such as MapleStory. 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In a jump quest, the goal is to navigate a 2D character to the top of the map, where a finishing line awaits. Besides trying to solve for a viable path upwards, the player also needs to navigate dangerous traps. 
 
